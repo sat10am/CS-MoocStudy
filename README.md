@@ -1,4 +1,4 @@
-# 💻 A group for studying computer science fundamentals
+# 💻 CS 전공 스터디
 
 개요: MOOC 를 활용하여, 비전공자도 전공을 공부해 보려고 합니다
 
