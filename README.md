@@ -1,4 +1,4 @@
-# A group for studying computer science fundamentals
+# 💻 A group for studying computer science fundamentals
 
 개요: MOOC 를 활용하여, 비전공자도 전공을 공부해 보려고 합니다
 
@@ -7,7 +7,7 @@
 방법: **매 주 2회 강의를 듣고 간단한 요약 또는 느낀점을 작성**
 
 
-## Lectures
+## 👨‍🏫 Lectures
 
 ### 1학년 과정
 
