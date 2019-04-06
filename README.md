@@ -11,7 +11,7 @@
 
 ### 1학년 과정
 
-- [논리학]() ← We are here!
+- [논리학](https://github.com/sat10am/CS-MoocStudy/blob/master/%EB%85%BC%EB%A6%AC%ED%95%99.md) ← We are here!
   - START - 20190406
 - 프로그램설계방법론
 - 프로그래밍기초
